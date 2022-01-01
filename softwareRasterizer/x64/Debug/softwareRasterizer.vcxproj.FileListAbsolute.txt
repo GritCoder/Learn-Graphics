@@ -1,0 +1,2 @@
+D:\C++\softwareRasterizer\x64\Debug\softwareRasterizer.exe
+D:\C++\softwareRasterizer\x64\Debug\softwareRasterizer.pdb
