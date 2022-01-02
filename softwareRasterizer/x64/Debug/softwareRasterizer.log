@@ -1,4 +1,10 @@
 ﻿  main.cpp
+D:\C++\softwareRasterizer\main.cpp(57,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++\softwareRasterizer\main.cpp(58,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++\softwareRasterizer\main.cpp(59,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++\softwareRasterizer\main.cpp(60,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  model.cpp
+  正在生成代码...
 LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
 main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
   softwareRasterizer.vcxproj -> D:\C++\softwareRasterizer\x64\Debug\softwareRasterizer.exe
